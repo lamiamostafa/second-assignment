@@ -37,8 +37,15 @@ body{
     border-radius: 41px;
     color:#FFFFFF;
     font-size: 16px;
+    
 }
+.button-submit:hover{
+    background-color:transparent;
+    color:#E02C6D; 
+    Transform:scale(0.75);
+    transition: Transform 1s ease-in-out 0.5s;
 
+}
 
 .banner-img img{
     width: 440px;
